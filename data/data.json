@@ -1,0 +1,56 @@
+[ 
+    {
+         "id":1,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png",
+         "title":"Alperen Şengün",
+         "Description":"Houston Rockets Power Forward"
+     },
+     {
+         "id":2,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+         "title":"Giannis Antetokounmpo",
+         "Description":"Milwaukee Forward"
+     },
+     {
+         "id":3,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+         "title":"Luka Doncic",
+         "Description":"Dallas Guard"
+     },
+     {
+         "id":4,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
+         "title":"Nikola Jokic",
+         "Description":"Denver Nuggets MVP Center"
+     },
+     {
+         "id":5,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
+         "title":"Domantas Sabonis",
+         "Description":"Kings Power Forward"
+     },
+     {
+         "id":6,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
+         "title":"Nikola Vucevic",
+         "Description":"Bulls Center"
+     },
+     {
+         "id":7,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+         "title":"Lauri Markkanen",
+         "Description":"Danish Power Forward"
+     },
+     {
+         "id":8,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
+         "title":"Rudy Gobert",
+         "Description":"French Center"
+     },
+     {
+         "id":10,
+         "image":"https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+         "title":"Franz Wagner",
+         "Description":"Germany Young Talent Winger"
+     }
+ ]
