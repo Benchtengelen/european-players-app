@@ -1,4 +1,4 @@
-Tours App which created with ReactJs.
+European Players App which created with Nextjs.
 
 Click demo to try it by yourself!
 
